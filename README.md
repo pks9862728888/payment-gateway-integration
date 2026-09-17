@@ -1,5 +1,10 @@
 # Getting Started
 
+# To start frontend
+```shell
+npm run dev
+```
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 

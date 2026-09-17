@@ -22,7 +22,7 @@ public class PaymentGatewayIntegrationApplication {
     @EventListener(ApplicationReadyEvent.class)
     public void onApplicationReady(ApplicationReadyEvent event) {
 //        stripeOperationsController.listProducts();
-        stripeOperationsController.getProduct("prod_VGfOtu0vuX7Tme");
+//        stripeOperationsController.getProduct("prod_VGfOtu0vuX7Tme");
     }
 
 }
